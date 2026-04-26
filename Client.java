@@ -162,7 +162,7 @@ public class Client implements ActionListener {
 		}
 
 	}
-
+//CLI communication
 	public static JPanel formatLabel(String out) {
 		JPanel panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
